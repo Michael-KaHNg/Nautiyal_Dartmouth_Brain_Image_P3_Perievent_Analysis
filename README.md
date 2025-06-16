@@ -9,7 +9,7 @@ Data relating to reaction time and physiological signals are limited by physical
 2.  The mean event rates for baseline and cue for each shuffeled samples were calculated.
 3.  A mean difference distribution were created using each baseline and cue pairs). This is called the "Permutation distribution".
 4.  Cout up the percentage of cases that  the values were more extreme than the original sample mean.
-5.  If the total percentage of cases > 0.025, the differences is considered significant (alpha adjustment will be needed for multiple comparsions).  
+5.  If the total percentage of cases < 0.025, the differences is considered significant (alpha adjustment will be needed for multiple comparsions).  
   
 
 ![Fig_P_1](https://github.com/user-attachments/assets/d5eb049b-5ec9-4a85-a25c-8d8c20ab9230)
